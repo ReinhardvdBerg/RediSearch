@@ -1,4 +1,4 @@
-name: Build RediSearch with COORD: oss on Ubuntu 22.04
+name: Build RediSearch
 
 on:
   push:
